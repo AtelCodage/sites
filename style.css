@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+}
+
+.category {
+    border: 5px solid purple;
+    margin: 15px;
+    padding: 10px;
+}
+
+h2 {
+    text-align: center;
+    color: purple;
+    margin-bottom: 15px;
+    font-size: 32px;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 40px;
+}
+
+a {
+    display: block;
+    text-decoration: none;
+    text-align: center;
+    width: 300px;
+    border: 1px solid black;
+    color:black;
+}
