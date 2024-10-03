@@ -35,6 +35,5 @@ a {
 }
 
 a:hover {
-    background-color: purple;
-    color: white;
+    background-color: lightgray;
 }
