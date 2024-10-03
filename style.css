@@ -30,6 +30,11 @@ a {
     text-decoration: none;
     text-align: center;
     width: 300px;
-    border: 1px solid black;
-    color:black;
+    border: 2px solid purple;
+    color:purple;
+}
+
+a:hover {
+    background-color: purple;
+    color: white;
 }
